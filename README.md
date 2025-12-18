@@ -33,9 +33,10 @@ I \space tolerate \space no \space unwelcome \space eyes.}$$
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3500&pause=800&color=00E5FF&center=true&width=435&lines=VoxTek+Approved." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3500&pause=800&color=00FFFF&center=true&width=435&lines=Trust+Us." />
   </a>
 </p>
+
 
 </div>
 
