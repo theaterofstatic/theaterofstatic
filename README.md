@@ -31,5 +31,11 @@ that \space are \space suitable \space only \space for \space adults.
 Step \space lightly, \space or \space turn \space away; 
 I \space tolerate \space no \space unwelcome \space eyes.}$$  
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3500&pause=800&color=00E5FF&center=true&width=435&lines=VoxTek+Approved." />
+  </a>
+</p>
+
 </div>
 
